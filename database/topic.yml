@@ -1,4 +1,2 @@
-"Camera":
-  "Camera": '"Camera"OR"multi camera"OR"video"'
-"ocr":
-  "Camera": '"ocr"'
+"HINE":
+  "hine": '"hammersmith infant neurological examination"OR"hammersmith neonatal neurological examination"OR"HINE"OR"HNNE"'
