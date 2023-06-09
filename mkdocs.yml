@@ -6,7 +6,7 @@ theme:
   features:
     - navigation.indexes
 
-repo_url: https://github.com/wanghaisheng/arxiv-paper-daily
+repo_url: https://github.com/ai4ecd/hine-arxiv-daily-paper
 
 markdown_extensions:
   - def_list
@@ -27,4 +27,4 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: UA-145083103-1
+    property: UA--1
