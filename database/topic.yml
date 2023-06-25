@@ -1,2 +1,2 @@
 "HINE":
-  "hine": 'abs:"hammersmith infant neurological examination "OR"abs:"hammersmith neonatal neurological examination"'
+  "hine": 'abs:"hammersmith infant neurological examination "and"infant"OR"abs:"hammersmith neonatal neurological examination "and"infant"'
